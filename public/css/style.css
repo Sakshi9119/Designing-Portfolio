@@ -1,0 +1,12 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+html {
+  /* font-size: 62.5%; */
+  scroll-behavior: smooth;
+}
+
+.navbar-style {
+  box-shadow: 2px 4px 13px 1px #d84059b3;
+}
